@@ -1,0 +1,1 @@
+This a slot machine implemented through JavaScript.
